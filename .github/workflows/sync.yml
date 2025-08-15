@@ -5,6 +5,9 @@ on:
     - cron: '0 * * * *'  # Every hour
   workflow_dispatch:
 
+permissions:
+  contents: write  # 允许写入仓库内容
+
 jobs:
   update-list:
     runs-on: ubuntu-latest
