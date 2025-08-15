@@ -3,6 +3,7 @@ name: Update List
 on:
   schedule:
     - cron: '0 * * * *'  # Every hour
+  workflow_dispatch:
 
 jobs:
   update-list:
