@@ -18,7 +18,9 @@ jobs:
 
       - name: Fetch JSON data
         run: |
-          curl -o list.json https://api.travellings.cn/all
+          curl -o list.json \
+          -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" \
+          https://api.travellings.cn/all
 
       - name: Commit and push changes
         run: |
