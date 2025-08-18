@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1240,
+  "total": 1241,
   "data": [
     {
       "id": 1,
@@ -11158,6 +11158,15 @@
       "name": "牧之小岛",
       "status": "RUN",
       "url": "https://8853131.xyz",
+      "tag": "go",
+      "failedReason": null,
+      "lastManualCheck": null
+    },
+    {
+      "id": 1702,
+      "name": "yCENzh's Blog",
+      "status": "RUN",
+      "url": "https://fuwari.oh1.top/",
       "tag": "go",
       "failedReason": null,
       "lastManualCheck": null
