@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1243,
+  "total": 1244,
   "data": [
     {
       "id": 1,
@@ -11185,6 +11185,15 @@
       "name": "冰冰の博客",
       "status": "RUN",
       "url": "https://www.blessyou.top",
+      "tag": "go",
+      "failedReason": null,
+      "lastManualCheck": null
+    },
+    {
+      "id": 1705,
+      "name": "fhbの博客",
+      "status": "RUN",
+      "url": "https://blog.fanghongbo.com",
       "tag": "go",
       "failedReason": null,
       "lastManualCheck": null
