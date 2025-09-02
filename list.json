@@ -9,7 +9,7 @@
       "url": "https://blog.oalo.cn",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 12,
@@ -18,7 +18,7 @@
       "url": "https://moechu.cn",
       "tag": "go,blog,life",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 13,
@@ -27,7 +27,7 @@
       "url": "https://www.zqcnc.cn",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 15,
@@ -36,7 +36,7 @@
       "url": "https://wznmickey.com",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 23,
@@ -45,7 +45,7 @@
       "url": "https://moshanghua.net",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 29,
@@ -10770,7 +10770,7 @@
       "id": 1658,
       "name": "Vespeng's Blog",
       "status": "RUN",
-      "url": "https://vespeng.tech/",
+      "url": "https://vespeng.com",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": false
@@ -11322,7 +11322,7 @@
       "url": "https://www.jcblog.com.cn",
       "tag": "go",
       "failedReason": null,
-      "isManualChecked": null
+      "isManualChecked": false
     },
     {
       "id": 1720,
@@ -11331,7 +11331,7 @@
       "url": "https://www.cn059.com",
       "tag": "go",
       "failedReason": null,
-      "isManualChecked": null
+      "isManualChecked": false
     }
   ]
 }
