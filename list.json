@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1271,
+  "total": 1272,
   "data": [
     {
       "id": 1,
@@ -11437,6 +11437,15 @@
       "name": "小屁卡医生 DrPika's Blog",
       "status": "RUN",
       "url": "https://blog.drpika.com",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1733,
+      "name": "ATao-Blog",
+      "status": "RUN",
+      "url": "https://blog.atao.cyou/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
