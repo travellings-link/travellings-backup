@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1272,
+  "total": 1273,
   "data": [
     {
       "id": 1,
@@ -11317,9 +11317,9 @@
     },
     {
       "id": 1719,
-      "name": "间窗的博客",
+      "name": "静观小窗",
       "status": "RUN",
-      "url": "https://www.jcblog.com.cn",
+      "url": "https://www.vindo.cn/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": false
@@ -11446,6 +11446,15 @@
       "name": "ATao-Blog",
       "status": "RUN",
       "url": "https://blog.atao.cyou/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1734,
+      "name": "Marshuni's blog",
+      "status": "RUN",
+      "url": "https://blog.marshuni.fun/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
