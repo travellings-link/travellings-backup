@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1274,
+  "total": 1275,
   "data": [
     {
       "id": 1,
@@ -11464,6 +11464,15 @@
       "name": "xgclevo的博客",
       "status": "RUN",
       "url": "https://blog.xgclevo.top/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1736,
+      "name": "ZoneAkashi",
+      "status": "RUN",
+      "url": "https://imakashi.com/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
