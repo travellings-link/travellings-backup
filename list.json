@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1288,
+  "total": 1289,
   "data": [
     {
       "id": 1,
@@ -1077,7 +1077,7 @@
       "id": 284,
       "name": "无梦梦游记 ",
       "status": "RUN",
-      "url": "https://bkryofu.xyz",
+      "url": "https://bkryofu.cn",
       "tag": "go,blog,life",
       "failedReason": null,
       "isManualChecked": false
@@ -11590,6 +11590,15 @@
       "name": "Catarium",
       "status": "RUN",
       "url": "https://eofs791.github.io",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1751,
+      "name": "kzhik's website",
+      "status": "RUN",
+      "url": "https://www.kzhik.cn",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
