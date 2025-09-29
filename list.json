@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1287,
+  "total": 1288,
   "data": [
     {
       "id": 1,
@@ -11581,6 +11581,15 @@
       "name": "零风PLFJYの小站",
       "status": "RUN",
       "url": "https://blog.plfjy.top/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1750,
+      "name": "Catarium",
+      "status": "RUN",
+      "url": "https://eofs791.github.io",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
