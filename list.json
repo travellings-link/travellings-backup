@@ -9608,7 +9608,7 @@
     {
       "id": 1530,
       "name": "中二蘑菇的博客",
-      "status": "502",
+      "status": "RUN",
       "url": "https://imfurry.com/",
       "tag": "go",
       "failedReason": "Server Error：502, Title：502 Bad Gateway",
