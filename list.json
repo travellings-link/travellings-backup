@@ -3388,9 +3388,9 @@
     },
     {
       "id": 694,
-      "name": "汐塔魔法屋",
+      "name": "绘星里",
       "status": "RUN",
-      "url": "https://blog.storical.space",
+      "url": "https://blog.storical.fun",
       "tag": "go,blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
@@ -4810,9 +4810,9 @@
     },
     {
       "id": 900,
-      "name": "星空博客",
-      "status": "ERROR",
-      "url": "https://blog.m78.co",
+      "name": "星空小站",
+      "status": "RUN",
+      "url": "https://www.m78.co",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": false
