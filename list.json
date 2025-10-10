@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1292,
+  "total": 1294,
   "data": [
     {
       "id": 1,
@@ -11625,7 +11625,25 @@
       "id": 1754,
       "name": "VnYzm的博客",
       "status": "RUN",
-      "url": "https://zimingyuan.github.io",
+      "url": "https://vnyzm.top",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1755,
+      "name": "MC118CN 的博客",
+      "status": "RUN",
+      "url": "https://blog.mc118cn.cn/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1756,
+      "name": "ThisisXXZ 的博客",
+      "status": "RUN",
+      "url": "https://thisisxxz.com/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
