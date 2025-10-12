@@ -7744,9 +7744,9 @@
     },
     {
       "id": 1308,
-      "name": "泯轲博客",
-      "status": "ERROR",
-      "url": "https://blog.k9b.cn",
+      "name": "泯轲旧博客",
+      "status": "RUN",
+      "url": "https://minkeboke.145.net.cn/",
       "tag": "go,blog",
       "failedReason": null,
       "isManualChecked": false
