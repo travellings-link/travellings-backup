@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1298,
+  "total": 1299,
   "data": [
     {
       "id": 1,
@@ -11499,7 +11499,7 @@
       "id": 1740,
       "name": "TNTのBLOG",
       "status": "RUN",
-      "url": "https://www.yqqd.cn/",
+      "url": "https://www.275.pub/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
@@ -11680,6 +11680,15 @@
       "name": "间窗而语",
       "status": "RUN",
       "url": "https://home.vindo.cn",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1761,
+      "name": "航通社",
+      "status": "RUN",
+      "url": "https://lishuhang.me/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
