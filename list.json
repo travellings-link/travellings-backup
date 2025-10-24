@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1306,
+  "total": 1307,
   "data": [
     {
       "id": 1,
@@ -11752,6 +11752,15 @@
       "name": "南柯一梦",
       "status": "RUN",
       "url": "https://www.nkmon.com",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1769,
+      "name": "枋柚梓博客",
+      "status": "RUN",
+      "url": "https://inkss.cn/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
