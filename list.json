@@ -8607,15 +8607,6 @@
       "isManualChecked": false
     },
     {
-      "id": 1414,
-      "name": "Riseforever",
-      "status": "RUN",
-      "url": "https://www.riseforever.cn/",
-      "tag": "go,blog",
-      "failedReason": null,
-      "isManualChecked": false
-    },
-    {
       "id": 1415,
       "name": "flash's ideal",
       "status": "RUN",
@@ -11761,6 +11752,15 @@
       "name": "枋柚梓博客",
       "status": "RUN",
       "url": "https://inkss.cn/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1770,
+      "name": "路明笔记",
+      "status": "RUN",
+      "url": "https://luming.cool",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
