@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1314,
+  "total": 1313,
   "data": [
     {
       "id": 1,
@@ -8549,15 +8549,6 @@
       "status": "RUN",
       "url": "https://blog.deepchirp.com",
       "tag": "go,blog,hybrid",
-      "failedReason": null,
-      "isManualChecked": false
-    },
-    {
-      "id": 1408,
-      "name": "Lawrence's Blog 乐乐的博客",
-      "status": "ERROR",
-      "url": "https://blog.lawrenceshi.space/",
-      "tag": "go",
       "failedReason": null,
       "isManualChecked": false
     },
