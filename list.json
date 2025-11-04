@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1316,
+  "total": 1317,
   "data": [
     {
       "id": 1,
@@ -11842,6 +11842,15 @@
       "name": "Zephyr's Blog",
       "status": "RUN",
       "url": "https://lorcas.top",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1782,
+      "name": "涡の小屋",
+      "status": "RUN",
+      "url": "https://blog.haoye.plus/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
