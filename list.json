@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1328,
+  "total": 1329,
   "data": [
     {
       "id": 1,
@@ -11950,6 +11950,15 @@
       "name": "字·兮·书",
       "status": "RUN",
       "url": "https://blog.demius.tech/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1795,
+      "name": "kixyu‘s blog",
+      "status": "RUN",
+      "url": "https://blog.kixyu9527.com",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
