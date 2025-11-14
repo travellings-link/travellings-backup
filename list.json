@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1329,
+  "total": 1331,
   "data": [
     {
       "id": 1,
@@ -6801,7 +6801,7 @@
       "id": 1194,
       "name": "梅之夏",
       "status": "RUN",
-      "url": "https://blog.mcenahle.sh.cn/",
+      "url": "https://blog.mcenahle.org.cn/",
       "tag": "go,blog,life",
       "failedReason": null,
       "isManualChecked": false
@@ -11959,6 +11959,24 @@
       "name": "kixyu‘s blog",
       "status": "RUN",
       "url": "https://blog.kixyu9527.com",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1796,
+      "name": "阿Q的博客",
+      "status": "RUN",
+      "url": "https://docset.vip",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1797,
+      "name": "杜嘟嘟",
+      "status": "RUN",
+      "url": "https://dudududu.vip/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
