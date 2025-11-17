@@ -7070,7 +7070,7 @@
     {
       "id": 1229,
       "name": "SerMsCoding",
-      "status": "RUN",
+      "status": "ERROR",
       "url": "https://blog.serms.top/",
       "tag": "go,blog",
       "failedReason": null,
