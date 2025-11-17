@@ -4081,9 +4081,9 @@
     },
     {
       "id": 786,
-      "name": "Lanbinの知识库",
-      "status": "ERROR",
-      "url": "https://lib.lanbin.top",
+      "name": "MaxQi的说说",
+      "status": "RUN",
+      "url": "https://maxqi.top",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": false
