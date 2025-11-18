@@ -2624,7 +2624,7 @@
     {
       "id": 580,
       "name": "今天是晴天",
-      "status": "RUN",
+      "status": "ERROR",
       "url": "https://www.luodeb.top",
       "tag": "go,blog,tech",
       "failedReason": null,
