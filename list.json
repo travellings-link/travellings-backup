@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1334,
+  "total": 1335,
   "data": [
     {
       "id": 1,
@@ -12004,6 +12004,15 @@
       "name": "缎金SatinAu",
       "status": "RUN",
       "url": "https://satinau.cn",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1801,
+      "name": "一叶舟记",
+      "status": "RUN",
+      "url": "https://blog.lonzov.top/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
