@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1339,
+  "total": 1340,
   "data": [
     {
       "id": 1,
@@ -12049,6 +12049,15 @@
       "name": "ZzzRemake‘s 自留地",
       "status": "RUN",
       "url": "https://zzzremake.github.io/site/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1806,
+      "name": "沃以的小站",
+      "status": "RUN",
+      "url": "https://www.woyioii.cn",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
