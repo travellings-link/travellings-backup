@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1337,
+  "total": 1339,
   "data": [
     {
       "id": 1,
@@ -12031,6 +12031,24 @@
       "name": "GopherDing's Blog",
       "status": "RUN",
       "url": "https://gopherding.github.io/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1804,
+      "name": "Notebook of Jie Hua",
+      "status": "RUN",
+      "url": "https://note.jiehua.org/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1805,
+      "name": "ZzzRemake‘s 自留地",
+      "status": "RUN",
+      "url": "https://zzzremake.github.io/site/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
