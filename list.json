@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1340,
+  "total": 1341,
   "data": [
     {
       "id": 1,
@@ -12058,6 +12058,15 @@
       "name": "沃以的小站",
       "status": "RUN",
       "url": "https://www.woyioii.cn",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1807,
+      "name": "lznauy的技术小屋",
+      "status": "RUN",
+      "url": "https://lznauy.cn/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
