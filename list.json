@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1341,
+  "total": 1343,
   "data": [
     {
       "id": 1,
@@ -12067,6 +12067,24 @@
       "name": "lznauy的技术小屋",
       "status": "RUN",
       "url": "https://lznauy.cn/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1808,
+      "name": "MC_Kero blog",
+      "status": "RUN",
+      "url": "https://blog.mckero.com",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1809,
+      "name": "yangblog",
+      "status": "RUN",
+      "url": "https://yangzs.851219.xyz/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
