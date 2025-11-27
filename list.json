@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1343,
+  "total": 1344,
   "data": [
     {
       "id": 1,
@@ -12085,6 +12085,15 @@
       "name": "yangblog",
       "status": "RUN",
       "url": "https://yangzs.851219.xyz/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1810,
+      "name": "Under the Sun with Paddy",
+      "status": "RUN",
+      "url": "https://www.paddysun.top/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
