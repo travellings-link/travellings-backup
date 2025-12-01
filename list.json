@@ -6385,9 +6385,9 @@
     },
     {
       "id": 1133,
-      "name": "lozhu's blog",
+      "name": "秋葵笔记",
       "status": "RUN",
-      "url": "https://lozhu.happy365.day",
+      "url": "https://qiukui-note.happy365.day",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": false
