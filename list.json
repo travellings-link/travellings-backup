@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1347,
+  "total": 1349,
   "data": [
     {
       "id": 1,
@@ -12121,6 +12121,24 @@
       "name": "Farewe1ll's Blog",
       "status": "RUN",
       "url": "https://blog.farewe1ll.top",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1814,
+      "name": "soda-official",
+      "status": "RUN",
+      "url": "https://soda-official.top/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1815,
+      "name": "Ares的小破站",
+      "status": "RUN",
+      "url": "https://ares-tech-stack.cn/blog_service/#/about",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
