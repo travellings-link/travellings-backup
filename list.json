@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1346,
+  "total": 1347,
   "data": [
     {
       "id": 1,
@@ -12112,6 +12112,15 @@
       "name": "老史尬侃",
       "status": "RUN",
       "url": "https://blog.stevezmt.top",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1813,
+      "name": "Farewe1ll's Blog",
+      "status": "RUN",
+      "url": "https://blog.farewe1ll.top",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
