@@ -63,7 +63,7 @@
       "url": "https://takuron.com",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 33,
@@ -72,7 +72,7 @@
       "url": "https://musenxi.com",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 35,
@@ -81,7 +81,7 @@
       "url": "https://blog.luvying.com",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 36,
@@ -90,7 +90,7 @@
       "url": "https://www.fzxx.xyz",
       "tag": "go,blog,site",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 38,
@@ -99,7 +99,7 @@
       "url": "https://www.addesp.com",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 40,
@@ -117,7 +117,7 @@
       "url": "https://blog.6yfz.cn",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 45,
@@ -126,7 +126,7 @@
       "url": "https://kissbaofish.cn",
       "tag": "go,blog,life",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 46,
@@ -171,7 +171,7 @@
       "url": "https://ilovey.live",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 64,
@@ -180,7 +180,7 @@
       "url": "https://www.chirmyram.top",
       "tag": "go,blog,hybrid",
       "failedReason": "Axios Error：连接超时（预设时间：30 秒）",
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 69,
@@ -279,7 +279,7 @@
       "url": "https://shoka.lostyu.me",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 91,
@@ -306,7 +306,7 @@
       "url": "https://blog.borber.top/",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 99,
@@ -342,7 +342,7 @@
       "url": "https://blog.fivezha.cn",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 110,
@@ -405,7 +405,7 @@
       "url": "https://xiaokang.me",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 136,
@@ -414,7 +414,7 @@
       "url": "https://megatontech.github.io",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 138,
@@ -468,7 +468,7 @@
       "url": "https://jianchengwang.info",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 154,
@@ -477,7 +477,7 @@
       "url": "https://www.xiangshu233.cn",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 155,
@@ -504,7 +504,7 @@
       "url": "https://fang.blog.miri.site",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 161,
@@ -522,7 +522,7 @@
       "url": "https://zlinblog.cn",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 168,
@@ -545,7 +545,7 @@
     {
       "id": 173,
       "name": "一点快乐",
-      "status": "ERROR",
+      "status": "WAIT",
       "url": "https://www.yidiankuaile.com",
       "tag": "go,blog,tech",
       "failedReason": null,
@@ -567,7 +567,7 @@
       "url": "https://blog.nekomoyi.com",
       "tag": "go",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 179,
@@ -594,7 +594,7 @@
       "url": "https://windy.ink/",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 187,
@@ -639,7 +639,7 @@
       "url": "https://blog.amoswu.cn",
       "tag": "go,blog,hybrid",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 193,
@@ -648,7 +648,7 @@
       "url": "https://www.mrgod.cn",
       "tag": "go,blog,tech",
       "failedReason": "Axios Error：连接超时（预设时间：30 秒）",
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 194,
@@ -680,7 +680,7 @@
     {
       "id": 199,
       "name": "萌！萝莉",
-      "status": "ERROR",
+      "status": "RUN",
       "url": "https://loliloli.moe",
       "tag": "go,blog,hybrid",
       "failedReason": null,
@@ -693,7 +693,7 @@
       "url": "https://blog.7wate.com",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 206,
@@ -729,7 +729,7 @@
       "url": "https://www.moleft.cn",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 215,
@@ -738,7 +738,7 @@
       "url": "https://blog.moeworld.tech",
       "tag": "go,blog,life",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 221,
@@ -891,7 +891,7 @@
       "url": "https://blog.garryde.com",
       "tag": "go",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 252,
@@ -927,7 +927,7 @@
       "url": "https://sangxuesheng.com",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 259,
@@ -950,7 +950,7 @@
     {
       "id": 263,
       "name": "演员 UyoAhz",
-      "status": "ERROR",
+      "status": "RUN",
       "url": "https://uyoahz.cn",
       "tag": "go,blog,hybrid",
       "failedReason": null,
@@ -972,7 +972,7 @@
       "url": "https://zisu.dev",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 266,
@@ -986,7 +986,7 @@
     {
       "id": 267,
       "name": "东方幻梦",
-      "status": "ERROR",
+      "status": "RUN",
       "url": "https://blog.badapple.pro",
       "tag": "go,blog",
       "failedReason": null,
@@ -1017,7 +1017,7 @@
       "url": "https://www.amazingk.cn",
       "tag": "go,blog,hybrid",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 274,
@@ -1053,7 +1053,7 @@
       "url": "https://imcbc.cn",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 280,
@@ -1062,7 +1062,7 @@
       "url": "https://lewky.cn",
       "tag": "go,blog,hybrid",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 283,
@@ -1071,7 +1071,7 @@
       "url": "https://www.cxl2020mc.top",
       "tag": "go,blog,hybrid",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 284,
@@ -1085,7 +1085,7 @@
     {
       "id": 285,
       "name": "Laugh",
-      "status": "ERROR",
+      "status": "WAIT",
       "url": "https://blog.laugh12321.cn",
       "tag": "go",
       "failedReason": null,
@@ -1157,7 +1157,7 @@
     {
       "id": 303,
       "name": "晓果冻",
-      "status": "ERROR",
+      "status": "RUN",
       "url": "https://www.chenmx.net",
       "tag": "go,blog,tech",
       "failedReason": null,
@@ -1233,7 +1233,7 @@
       "url": "https://rssblog.cn",
       "tag": "go,blog,hybrid",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 318,
@@ -1242,7 +1242,7 @@
       "url": "https://bamboomc.cn",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 319,
@@ -1359,16 +1359,16 @@
       "url": "https://wrans.top",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 348,
       "name": "gd1214b's blog",
-      "status": "ERROR",
+      "status": "WAIT",
       "url": "https://blog.gd1214b.icu",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 350,
@@ -1386,7 +1386,7 @@
       "url": "https://baipin.pw",
       "tag": "go,blog,life",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 354,
@@ -1400,7 +1400,7 @@
     {
       "id": 355,
       "name": "小丁的博客",
-      "status": "ERROR",
+      "status": "RUN",
       "url": "https://xding.top",
       "tag": "go,blog,tech",
       "failedReason": null,
@@ -1445,11 +1445,11 @@
     {
       "id": 360,
       "name": "泠风寒声的小窝",
-      "status": "ERROR",
+      "status": "WAIT",
       "url": "https://blog.lfhsheng.com",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 361,
@@ -1503,7 +1503,7 @@
       "url": "https://blog.sky390.cn",
       "tag": "go",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 367,
@@ -1512,7 +1512,7 @@
       "url": "https://zhoubin.me",
       "tag": "go",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 368,
@@ -1535,11 +1535,11 @@
     {
       "id": 371,
       "name": "紫升的博客",
-      "status": "ERROR",
+      "status": "WAIT",
       "url": "https://youngjuning.js.org",
       "tag": "go",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 372,
@@ -1553,11 +1553,11 @@
     {
       "id": 375,
       "name": "雷雷屋头",
-      "status": "ERROR",
+      "status": "WAIT",
       "url": "https://ll.sc.cn",
       "tag": "go,blog,hybrid",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 376,
@@ -1602,7 +1602,7 @@
       "url": "https://张晶晶.我爱你",
       "tag": "go",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 383,
@@ -1620,7 +1620,7 @@
       "url": "https://nickx.cn",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 389,
@@ -1647,7 +1647,7 @@
       "url": "https://zsd.name",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 399,
@@ -1656,7 +1656,7 @@
       "url": "https://dorakika.cn",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 403,
@@ -1665,7 +1665,7 @@
       "url": "https://www.hovthen.com",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 405,
