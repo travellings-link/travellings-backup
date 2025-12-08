@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1356,
+  "total": 1357,
   "data": [
     {
       "id": 1,
@@ -133,7 +133,7 @@
       "name": "F 君的博客",
       "status": "RUN",
       "url": "https://blog.fkun.tech",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -178,7 +178,7 @@
       "name": "七米蓝",
       "status": "TIMEOUT",
       "url": "https://www.chirmyram.top",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": "Axios Error：连接超时（预设时间：30 秒）",
       "isManualChecked": true
     },
@@ -187,7 +187,7 @@
       "name": "人家故里",
       "status": "RUN",
       "url": "https://fx7.top",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -241,7 +241,7 @@
       "name": "杜老师说",
       "status": "RUN",
       "url": "https://dusays.com",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -259,7 +259,7 @@
       "name": "Colsrch'Blog",
       "status": "RUN",
       "url": "https://colsrch.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -277,7 +277,7 @@
       "name": "優萌初華",
       "status": "RUN",
       "url": "https://shoka.lostyu.me",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": true
     },
@@ -421,7 +421,7 @@
       "name": "Huiris's Log",
       "status": "RUN",
       "url": "https://huiris.com",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -610,7 +610,7 @@
       "name": "Magma Ink",
       "status": "RUN",
       "url": "https://magma.ink",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -619,7 +619,7 @@
       "name": "幼稚园园长",
       "status": "RUN",
       "url": "https://yzyyz.top",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -664,7 +664,7 @@
       "name": "Sekiro's Blog",
       "status": "RUN",
       "url": "https://666wxy666.github.io",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -736,7 +736,7 @@
       "name": "空域",
       "status": "RUN",
       "url": "https://blog.moeworld.tech",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": true
     },
@@ -1042,7 +1042,7 @@
       "name": "开心果",
       "status": "ERROR",
       "url": "https://www.zhw150.top",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": true
     },
@@ -1195,7 +1195,7 @@
       "name": "Thun888",
       "status": "RUN",
       "url": "https://blog.hzchu.top",
-      "tag": "go,blog,tech",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -1267,7 +1267,7 @@
       "name": "林林杂语",
       "status": "RUN",
       "url": "https://www.xiaozonglin.cn",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -1402,7 +1402,7 @@
       "name": "小丁的博客",
       "status": "RUN",
       "url": "https://xding.top",
-      "tag": "go,blog,tech",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -1519,7 +1519,7 @@
       "name": "飞跃高山与大洋的鱼",
       "status": "RUN",
       "url": "https://docs.shanyuhai.top",
-      "tag": "go,normal,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -1573,7 +1573,7 @@
       "name": "喵二の小博客",
       "status": "RUN",
       "url": "https://www.miaoer.net",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -1708,7 +1708,7 @@
       "name": "奇异维度",
       "status": "RUN",
       "url": "https://blog.isww.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -1717,7 +1717,7 @@
       "name": "一只橙梓一个窝",
       "status": "RUN",
       "url": "https://blog.orangii.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -1753,7 +1753,7 @@
       "name": "星空下的 YZY",
       "status": "ERROR",
       "url": "https://226yzy.com",
-      "tag": "go,blog,tech",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": true
     },
@@ -1789,7 +1789,7 @@
       "name": "网友小宋",
       "status": "RUN",
       "url": "https://xyzbz.cn",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -1807,7 +1807,7 @@
       "name": "朝露碎梦",
       "status": "RUN",
       "url": "https://aibofan.com",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -1888,7 +1888,7 @@
       "name": "芸熙の小屋",
       "status": "ERROR",
       "url": "https://stvue.com",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": true
     },
@@ -1969,7 +1969,7 @@
       "name": "一蓑烟雨的博客",
       "status": "RUN",
       "url": "https://easyf12.top",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -1978,7 +1978,7 @@
       "name": "资源管理器博客",
       "status": "RUN",
       "url": "https://www.zyglq.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2068,7 +2068,7 @@
       "name": "井犯博客",
       "status": "ERROR",
       "url": "https://nicejf.cn",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2077,7 +2077,7 @@
       "name": "Yuexin's Blog",
       "status": "ERROR",
       "url": "https://wyxogo.top",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2104,7 +2104,7 @@
       "name": "Ykuee 的博客",
       "status": "ERROR",
       "url": "https://www.ykuee.link",
-      "tag": "go,blog,life",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2149,7 +2149,7 @@
       "name": "Peijie's Wiki",
       "status": "RUN",
       "url": "https://liupj.top",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2158,7 +2158,7 @@
       "name": "羁鸟博客",
       "status": "ERROR",
       "url": "https://www.data-era.cn",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2203,7 +2203,7 @@
       "name": "速溶",
       "status": "RUN",
       "url": "https://zzzing.cn",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2212,7 +2212,7 @@
       "name": "NoneData",
       "status": "RUN",
       "url": "https://www.nonedata.com",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2248,7 +2248,7 @@
       "name": "CodeTime",
       "status": "RUN",
       "url": "https://www.xdull.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2257,7 +2257,7 @@
       "name": "浮云翩迁之间",
       "status": "RUN",
       "url": "https://blognas.hwb0307.com",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2266,7 +2266,7 @@
       "name": "心智备份",
       "status": "ERROR",
       "url": "https://www.tyrantg.com",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2275,7 +2275,7 @@
       "name": "Kobin 技术随笔",
       "status": "RUN",
       "url": "https://blog.kobin.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2293,7 +2293,7 @@
       "name": "字节星球",
       "status": "RUN",
       "url": "https://www.bytecho.net",
-      "tag": "go,blog,tech,life",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2329,7 +2329,7 @@
       "name": "百里飞洋の小世界",
       "status": "RUN",
       "url": "https://blog.meta-code.top",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2365,7 +2365,7 @@
       "name": "Leonus",
       "status": "RUN",
       "url": "https://blog.leonus.cn",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2374,7 +2374,7 @@
       "name": "澄沨的漫游茶记",
       "status": "RUN",
       "url": "https://champhoon.xyz",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2392,7 +2392,7 @@
       "name": "Rekord's Blog",
       "status": "ERROR",
       "url": "https://sxrekord.com",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2419,7 +2419,7 @@
       "name": "wallleap",
       "status": "RUN",
       "url": "https://myblog.wallleap.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2446,7 +2446,7 @@
       "name": "Bluemangoo's Blog",
       "status": "RUN",
       "url": "https://blog.bluemangoo.net",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2473,7 +2473,7 @@
       "name": "Moreality's Blog",
       "status": "RUN",
       "url": "https://moreality.net",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2536,7 +2536,7 @@
       "name": "长街短梦",
       "status": "ERROR",
       "url": "https://wangyunzi.com",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2554,7 +2554,7 @@
       "name": "阿猫的博客",
       "status": "RUN",
       "url": "https://ameow.xyz",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2581,7 +2581,7 @@
       "name": "树洞笔记",
       "status": "RUN",
       "url": "https://www.x8xx.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2599,7 +2599,7 @@
       "name": "loquy",
       "status": "RUN",
       "url": "https://www.loquy.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2716,7 +2716,7 @@
       "name": "知秋",
       "status": "RUN",
       "url": "https://acchw.top",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2743,7 +2743,7 @@
       "name": "釉色鸭知识库",
       "status": "ERROR",
       "url": "https://yoseya2410.github.io",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2761,7 +2761,7 @@
       "name": "南蛮子懋和",
       "status": "RUN",
       "url": "https://www.dao.js.cn/",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2815,7 +2815,7 @@
       "name": "小杨生活志",
       "status": "RUN",
       "url": "https://www.yanghuaxing.com",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2860,7 +2860,7 @@
       "name": "Diary of LX",
       "status": "RUN",
       "url": "https://diary.bid",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2896,7 +2896,7 @@
       "name": "小朊的朋友圈",
       "status": "ERROR",
       "url": "https://www.xrpyq.com/page/links",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -2959,7 +2959,7 @@
       "name": "望月阁",
       "status": "RUN",
       "url": "https://www.kaitaku.xyz",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3031,7 +3031,7 @@
       "name": "Hsu Yeung 的博客",
       "status": "RUN",
       "url": "https://www.hsuyeung.com",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3085,7 +3085,7 @@
       "name": "Kloudy Shape",
       "status": "RUN",
       "url": "https://shape.kloudy.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3094,7 +3094,7 @@
       "name": "又见苍岚",
       "status": "RUN",
       "url": "https://www.zywvvd.com",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3148,7 +3148,7 @@
       "name": "写 bug 的代码人",
       "status": "RUN",
       "url": "https://bugcoder.asia",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3157,7 +3157,7 @@
       "name": "NullPointerException",
       "status": "RUN",
       "url": "https://omn.cc",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3193,7 +3193,7 @@
       "name": "平替生活",
       "status": "RUN",
       "url": "https://cheapy.top",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3220,7 +3220,7 @@
       "name": "Jerry Zhou 的个人博客",
       "status": "RUN",
       "url": "https://blog.jerryz.com.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3247,7 +3247,7 @@
       "name": "狼林鱼池",
       "status": "RUN",
       "url": "https://blog.jiyu134.top/",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3265,7 +3265,7 @@
       "name": "peachRL 的小站",
       "status": "RUN",
       "url": "https://wanyijizi.com",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3301,7 +3301,7 @@
       "name": "MoyuqLのBlog",
       "status": "ERROR",
       "url": "https://blog.moyuql.top",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3337,7 +3337,7 @@
       "name": "旺东自留地",
       "status": "RUN",
       "url": "https://wang618.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3346,7 +3346,7 @@
       "name": "CHI's blog",
       "status": "ERROR",
       "url": "https://blog.chaunceychi.fun",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3445,7 +3445,7 @@
       "name": "暮冬博客",
       "status": "ERROR",
       "url": "https://www.alantorp.online",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3490,7 +3490,7 @@
       "name": "PandaX Blog",
       "status": "RUN",
       "url": "https://pandax.wiki",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3526,7 +3526,7 @@
       "name": "缘生笔记",
       "status": "RUN",
       "url": "https://ysicing.me",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3589,7 +3589,7 @@
       "name": "大海看看",
       "status": "RUN",
       "url": "https://www.dhkk.cn",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3670,7 +3670,7 @@
       "name": "jdjwzx233-blog",
       "status": "RUN",
       "url": "https://www.jdjwzx233.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3688,7 +3688,7 @@
       "name": "Dorad's Life",
       "status": "RUN",
       "url": "https://blog.cuger.cn",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3760,7 +3760,7 @@
       "name": "召尘秘境",
       "status": "ERROR",
       "url": "https://www.olive-r.cn",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3769,7 +3769,7 @@
       "name": "Shimoko",
       "status": "RUN",
       "url": "https://www.shimoko.com",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3967,7 +3967,7 @@
       "name": "无极的博客",
       "status": "RUN",
       "url": "https://blog.59888888.xyz",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -3976,7 +3976,7 @@
       "name": "秋风于渭水",
       "status": "RUN",
       "url": "https://www.tjsky.net",
-      "tag": "go,blog,tech",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -4030,7 +4030,7 @@
       "name": "新白菜频道",
       "status": "RUN",
       "url": "https://www.n-bc.top",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -4075,7 +4075,7 @@
       "name": "Histcat's Blog",
       "status": "RUN",
       "url": "https://blog.histcat.top",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -4138,7 +4138,7 @@
       "name": "朱某的生活印记",
       "status": "RUN",
       "url": "https://zhuxu.asia/",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -4210,7 +4210,7 @@
       "name": "小鱼吃猫——技术博客",
       "status": "RUN",
       "url": "https://jhacker.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -4309,7 +4309,7 @@
       "name": "牛牛技术客栈",
       "status": "RUN",
       "url": "https://www.nnjskz.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -4327,7 +4327,7 @@
       "name": "I‘m Luochancy",
       "status": "RUN",
       "url": "https://www.luochancy.com",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -4363,7 +4363,7 @@
       "name": "刑辩人在路上",
       "status": "RUN",
       "url": "https://xingbianren.cn",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -4372,7 +4372,7 @@
       "name": "梦中小城小站",
       "status": "RUN",
       "url": "https://www.llh1347.com",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -4399,7 +4399,7 @@
       "name": "品味苏州",
       "status": "RUN",
       "url": "https://pwsz.com/",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -4516,7 +4516,7 @@
       "name": "阿啊阿吖丁 - 丁俊尧的个人网站",
       "status": "RUN",
       "url": "https://4ading.com",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -4606,7 +4606,7 @@
       "name": "Jimmy Lee’s blog",
       "status": "RUN",
       "url": "https://blog.jimersylee.com/",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -4624,7 +4624,7 @@
       "name": "时光日志",
       "status": "ERROR",
       "url": "https://www.timelogs.cn",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -4696,7 +4696,7 @@
       "name": "Barkure",
       "status": "RUN",
       "url": "https://barku.re",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -4858,7 +4858,7 @@
       "name": "Krau的博客",
       "status": "RUN",
       "url": "https://krau.top",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -4975,7 +4975,7 @@
       "name": "You & FM",
       "status": "RUN",
       "url": "https://yufm.com",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -4993,7 +4993,7 @@
       "name": "运维开发绿皮书\r",
       "status": "RUN",
       "url": "https://www.geekery.cn/\r",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5020,7 +5020,7 @@
       "name": "时光李记",
       "status": "RUN",
       "url": "https://www.lylyl.cn/",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5056,7 +5056,7 @@
       "name": "秋至、枫以落",
       "status": "RUN",
       "url": "https://blog.iqzhi.com",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5155,7 +5155,7 @@
       "name": "九夏小站",
       "status": "RUN",
       "url": "https://blog.inekoxia.com",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5164,7 +5164,7 @@
       "name": "Zhu's Blog",
       "status": "RUN",
       "url": "https://yfzhu.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5182,7 +5182,7 @@
       "name": "Travis' Blog",
       "status": "RUN",
       "url": "https://blog.lxythan2lxy.cn/",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5236,7 +5236,7 @@
       "name": "Angine's Blog",
       "status": "RUN",
       "url": "https://angine.tech",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5263,7 +5263,7 @@
       "name": "小林笔记",
       "status": "ERROR",
       "url": "https://m.senlinm.cn",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5281,7 +5281,7 @@
       "name": "Yunyi's Blog",
       "status": "RUN",
       "url": "https://www.yunyitang.me/",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5326,7 +5326,7 @@
       "name": "晨风韵雨の博客",
       "status": "ERROR",
       "url": "https://www.taotaoiswjs.cn/",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5488,7 +5488,7 @@
       "name": "新锐博客",
       "status": "RUN",
       "url": "https://www.xrbk.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5650,7 +5650,7 @@
       "name": "小稚生活志",
       "status": "RUN",
       "url": "https://ihello.cc",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5668,7 +5668,7 @@
       "name": "Kegongteng",
       "status": "RUN",
       "url": "https://kegongteng.cn/",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5695,7 +5695,7 @@
       "name": "雾林博客",
       "status": "RUN",
       "url": "https://www.baiwulin.com",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5821,7 +5821,7 @@
       "name": "萤火之光",
       "status": "RUN",
       "url": "https://alampy.com/",
-      "tag": "go,blog,tech",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5839,7 +5839,7 @@
       "name": "串串狗 xk",
       "status": "RUN",
       "url": "https://www.ccgxk.com/",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5848,7 +5848,7 @@
       "name": "轻雅阁",
       "status": "ERROR",
       "url": "https://www.puresky.top",
-      "tag": "go,blog,life",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -5974,7 +5974,7 @@
       "name": "乌云盖雪",
       "status": "RUN",
       "url": "https://wygxmew.github.io/",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -6028,7 +6028,7 @@
       "name": "皮普的数字花园",
       "status": "RUN",
       "url": "https://pipuwong.com",
-      "tag": "go,blog,life",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -6073,7 +6073,7 @@
       "name": "Yiming的personal博客",
       "status": "ERROR",
       "url": "https://blog.yiming1234.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -6109,7 +6109,7 @@
       "name": "皓子的小站",
       "status": "RUN",
       "url": "https://howiehz.top",
-      "tag": "go,blog,tech",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -6145,7 +6145,7 @@
       "name": "無名小栈",
       "status": "RUN",
       "url": "https://blog.imsyy.top/",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -6172,7 +6172,7 @@
       "name": "静若安然",
       "status": "ERROR",
       "url": "https://www.imets.cn/",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -6289,7 +6289,7 @@
       "name": "威言威语",
       "status": "RUN",
       "url": "https://www.weisay.com/blog/",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -6307,7 +6307,7 @@
       "name": "IT摇篮曲",
       "status": "RUN",
       "url": "https://www.itylq.com",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -6325,7 +6325,7 @@
       "name": "刘郎阁",
       "status": "RUN",
       "url": "https://vjo.cc",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -6433,7 +6433,7 @@
       "name": "迷鹿屋",
       "status": "500",
       "url": "https://lostdeer.xyz/",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": "Server Error：500, Title：Database Error",
       "isManualChecked": false
     },
@@ -6442,7 +6442,7 @@
       "name": "呓语梦轩",
       "status": "RUN",
       "url": "https://blog.awaae001.top/",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -6478,7 +6478,7 @@
       "name": "孙威的阳光海",
       "status": "RUN",
       "url": "https://www.sunnyfly.com/",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -6532,7 +6532,7 @@
       "name": "LineXic书屋",
       "status": "RUN",
       "url": "https://linexic.top/",
-      "tag": "go",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -6703,7 +6703,7 @@
       "name": "LogDict",
       "status": "RUN",
       "url": "https://www.logdict.com",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -6757,7 +6757,7 @@
       "name": "SSR-FF摄影",
       "status": "ERROR",
       "url": "https://pic.ffnb.top",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -6784,7 +6784,7 @@
       "name": "DAIDAIFU'S BLOG",
       "status": "RUN",
       "url": "https://www.ddf.im",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -6829,7 +6829,7 @@
       "name": "時光的博客园子",
       "status": "RUN",
       "url": "https://blog.shiguang666.eu.org",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -6901,7 +6901,7 @@
       "name": "晴空树",
       "status": "RUN",
       "url": "https://pinaland.cn/",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -7126,7 +7126,7 @@
       "name": "小苏打笔记",
       "status": "RUN",
       "url": "https://www.teh.top",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -7351,7 +7351,7 @@
       "name": "失迹の博客",
       "status": "RUN",
       "url": "https://blog.reincarnatey.net",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -7378,7 +7378,7 @@
       "name": "满久琦的个人网站",
       "status": "RUN",
       "url": "https://www.manjiuqi.com/",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -7414,7 +7414,7 @@
       "name": "lu笔记",
       "status": "RUN",
       "url": "https://lu1104.cn/",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -7468,7 +7468,7 @@
       "name": "菲兹克斯喵",
       "status": "RUN",
       "url": "https://physnya.top",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -7522,7 +7522,7 @@
       "name": "MRZHU的小站",
       "status": "RUN",
       "url": "https://www.sifangbazhu.tech",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": "Client Error：405, Title：undefined",
       "isManualChecked": false
     },
@@ -7756,7 +7756,7 @@
       "name": "Leo2011的博客",
       "status": "RUN",
       "url": "https://leo2011.eu.org/",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -7918,7 +7918,7 @@
       "name": "枫林·浅羽·云梦",
       "status": "RUN",
       "url": "https://agen233.top",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -7945,7 +7945,7 @@
       "name": "兰德胡涂",
       "status": "TIMEOUT",
       "url": "https://www.landhutu.top",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": "Axios Error：连接超时（预设时间：30 秒）",
       "isManualChecked": false
     },
@@ -7972,7 +7972,7 @@
       "name": "PeterTech\r",
       "status": "RUN",
       "url": "https://peter267.github.io",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -7981,7 +7981,7 @@
       "name": "姓王者的博客",
       "status": "RUN",
       "url": "https://xingwangzhe.fun",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -8017,7 +8017,7 @@
       "name": "狄云的所思所想",
       "status": "RUN",
       "url": "https://www.diyun.site/",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -8026,7 +8026,7 @@
       "name": "小鹿的个人网站",
       "status": "RUN",
       "url": "https://siena.zone",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -8287,7 +8287,7 @@
       "name": "Lycoris",
       "status": "RUN",
       "url": "https://www.lycoris.cloud",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -8296,7 +8296,7 @@
       "name": "无叶之境 - Realm in Legend",
       "status": "RUN",
       "url": "https://lonleaf.com",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -8323,7 +8323,7 @@
       "name": "璜珀的小屋",
       "status": "RUN",
       "url": "https://blog.hpcesia.com/",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -8359,7 +8359,7 @@
       "name": "默小班",
       "status": "RUN",
       "url": "https://www.memxb.top",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -8368,7 +8368,7 @@
       "name": "敲代码的卡卡罗特",
       "status": "RUN",
       "url": "https://blog.share888.top",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -8431,7 +8431,7 @@
       "name": "MiniKano的小窝",
       "status": "RUN",
       "url": "https://kanokano.cn/",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -8476,7 +8476,7 @@
       "name": "菰城鸥鹭的大学之道\r",
       "status": "RUN",
       "url": "https://www.gcoulu.cn",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -8485,7 +8485,7 @@
       "name": "三无青年",
       "status": "ERROR",
       "url": "https://www.duanxiansen.com/",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -8494,7 +8494,7 @@
       "name": "陵长镜的小博客",
       "status": "RUN",
       "url": "https://r1n.top",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -8539,7 +8539,7 @@
       "name": "空鸣深语",
       "status": "RUN",
       "url": "https://blog.deepchirp.com",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -8548,7 +8548,7 @@
       "name": "钧言极客",
       "status": "LOST",
       "url": "https://www.jinjun.top/",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -8629,7 +8629,7 @@
       "name": "ZLA 小站",
       "status": "RUN",
       "url": "https://zla.pub/",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -8692,7 +8692,7 @@
       "name": "问心斋",
       "status": "RUN",
       "url": "https://blog.ehnap.com",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9031,7 +9031,7 @@
     },
     {
       "id": 1468,
-      "name": "Xeonzilla's Note",
+      "name": "x7aNote",
       "status": "RUN",
       "url": "https://xeonzilla.top",
       "tag": "go",
@@ -9061,7 +9061,7 @@
       "name": "TaurusXin 的独立博客",
       "status": "RUN",
       "url": "https://www.taurusxin.com",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9079,7 +9079,7 @@
       "name": "szhshp的第三边境研究所",
       "status": "RUN",
       "url": "https://szhshp.org",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9223,7 +9223,7 @@
       "name": "宜轩博客",
       "status": "ERROR",
       "url": "https://www.eexuan.cn/",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9250,7 +9250,7 @@
       "name": "云烟博客",
       "status": "RUN",
       "url": "https://www.yunyanck.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9259,7 +9259,7 @@
       "name": "leorain",
       "status": "RUN",
       "url": "https://www.leorain.cn/",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9295,7 +9295,7 @@
       "name": "Fantasy`ke Blog",
       "status": "LOST",
       "url": "https://blog.fantasyke.cn/",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9313,7 +9313,7 @@
       "name": "亚斯之声",
       "status": "ERROR",
       "url": "https://we.owaii.net",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9331,7 +9331,7 @@
       "name": "Rolenx 的 δ 世界线",
       "status": "LOST",
       "url": "https://home.yesord.top",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9376,7 +9376,7 @@
       "name": "赢秦散记",
       "status": "ERROR",
       "url": "https://26464342.xyz",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9403,7 +9403,7 @@
       "name": "林间拾语",
       "status": "RUN",
       "url": "https://www.lik.cc/",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9439,7 +9439,7 @@
       "name": "流萤白沙のBlog",
       "status": "RUN",
       "url": "https://lyrashore.com",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9610,7 +9610,7 @@
       "name": "封闭脑袋",
       "status": "RUN",
       "url": "https://www.joomaen.com",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9628,7 +9628,7 @@
       "name": "webfem",
       "status": "RUN",
       "url": "https://webfem.com/",
-      "tag": "go",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9646,7 +9646,7 @@
       "name": "記緒漂流",
       "status": "ERROR",
       "url": "https://ttio.cc",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9691,7 +9691,7 @@
       "name": "fuXes的浮生闲话",
       "status": "RUN",
       "url": "https://fuxes.cn/",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9700,7 +9700,7 @@
       "name": "灰叶的笔记",
       "status": "RUN",
       "url": "https://www.huiyex.top",
-      "tag": "go",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9772,7 +9772,7 @@
       "name": "Jame",
       "status": "RUN",
       "url": "https://jame.work",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9808,7 +9808,7 @@
       "name": "ZTGD",
       "status": "RUN",
       "url": "https://ztgdblog.icu/",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9835,7 +9835,7 @@
       "name": "Forsertee's Blog",
       "status": "LOST",
       "url": "https://www.montylee.cn",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -9853,7 +9853,7 @@
       "name": "iFluxArt",
       "status": "ERROR",
       "url": "https://iflux.art/",
-      "tag": "go,blog",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -10078,7 +10078,7 @@
       "name": "Wcowin's Blog",
       "status": "RUN",
       "url": "https://wcowin.work/",
-      "tag": "go,blog",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -10204,7 +10204,7 @@
       "name": "bbb-lsy07",
       "status": "ERROR",
       "url": "https://i.bbb-lsy07.sbs",
-      "tag": "go,blog",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -10393,7 +10393,7 @@
       "name": "0xd00's blog",
       "status": "RUN",
       "url": "https://blog.0xd00.com",
-      "tag": "go,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -10519,7 +10519,7 @@
       "name": "Norcleeh's Site",
       "status": "RUN",
       "url": "https://nocp.space",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -10627,7 +10627,7 @@
       "name": "ALZT02的个人博客",
       "status": "RUN",
       "url": "https://alzt02.github.io",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -10663,7 +10663,7 @@
       "name": "Horean's Blog",
       "status": "RUN",
       "url": "https://blog.hxrch.top",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -10681,7 +10681,7 @@
       "name": "木鱼的鱼窝",
       "status": "LOST",
       "url": "https://www.woodfishhhh.xyz/",
-      "tag": "go,blog",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -10816,7 +10816,7 @@
       "name": "喂猫猫",
       "status": "RUN",
       "url": "https://bi1vmm.cn/",
-      "tag": "go",
+      "tag": "blog,life",
       "failedReason": "Server Error：520, Title：undefined",
       "isManualChecked": false
     },
@@ -10843,7 +10843,7 @@
       "name": "Gogei的静默日志",
       "status": "RUN",
       "url": "https://gogei.netlify.app/",
-      "tag": "go,blog,hybrid",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -10888,7 +10888,7 @@
       "name": "你是人间的四月天",
       "status": "RUN",
       "url": "https://imum.me",
-      "tag": "go,blog,life",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -10915,7 +10915,7 @@
       "name": "海蓝岛",
       "status": "RUN",
       "url": "https://hailandao.com/",
-      "tag": "go,blog,tech",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -11131,7 +11131,7 @@
       "name": "yCENzh's Blog",
       "status": "RUN",
       "url": "https://fuwari.oh1.top/",
-      "tag": "go",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -11221,7 +11221,7 @@
       "name": "Fanzhuo的博客",
       "status": "RUN",
       "url": "https://blog.fanzhuo.xyz/",
-      "tag": "go",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -11239,7 +11239,7 @@
       "name": "云晓晨 KaiQi.Wang",
       "status": "RUN",
       "url": "https://blog.kaiqi.wang",
-      "tag": "go",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -11248,7 +11248,7 @@
       "name": "酥米的小站",
       "status": "LOST",
       "url": "https://www.sumi233.top",
-      "tag": "go",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": false
     },
@@ -11527,7 +11527,7 @@
       "name": "晓沉的小小博客",
       "status": "ERROR",
       "url": "https://moexc.com/",
-      "tag": "go",
+      "tag": "blog,life",
       "failedReason": null,
       "isManualChecked": null
     },
@@ -11626,7 +11626,7 @@
       "name": "橙树志 ｜ citydatum",
       "status": "RUN",
       "url": "https://citydatum.cn/",
-      "tag": "go",
+      "tag": "blog,hybrid",
       "failedReason": null,
       "isManualChecked": null
     },
@@ -11725,7 +11725,7 @@
       "name": "枋柚梓博客",
       "status": "RUN",
       "url": "https://inkss.cn/",
-      "tag": "go",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": null
     },
@@ -11950,7 +11950,7 @@
       "name": "字·兮·书",
       "status": "RUN",
       "url": "https://blog.demius.tech/",
-      "tag": "go",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": null
     },
@@ -12022,7 +12022,7 @@
       "name": "baozongwi's blog",
       "status": "RUN",
       "url": "https://baozongwi.xyz/",
-      "tag": "go",
+      "tag": "blog,tech",
       "failedReason": null,
       "isManualChecked": null
     },
@@ -12202,6 +12202,15 @@
       "name": "年月小筑",
       "status": "RUN",
       "url": "https://apurer.cn",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1823,
+      "name": "Mugzx's Blog",
+      "status": "RUN",
+      "url": "https://blog.mugzx.top",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
