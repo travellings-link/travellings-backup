@@ -86,7 +86,7 @@
     {
       "id": 36,
       "name": "风之暇想",
-      "status": "LOST",
+      "status": "RUN",
       "url": "https://www.fzxx.xyz",
       "tag": "go,blog,site",
       "failedReason": null,
@@ -1287,7 +1287,7 @@
       "url": "https://longtao.fun",
       "tag": "go",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 330,
@@ -1305,7 +1305,7 @@
       "url": "https://www.nongyanxia.com",
       "tag": "go",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 335,
