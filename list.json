@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1359,
+  "total": 1360,
   "data": [
     {
       "id": 1,
@@ -12229,6 +12229,15 @@
       "name": "Flwty",
       "status": "RUN",
       "url": "https://www.flwty.cn",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1826,
+      "name": "SummerGao",
+      "status": "RUN",
+      "url": "https://www.summergao.com",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
