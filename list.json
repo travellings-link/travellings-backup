@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1363,
+  "total": 1364,
   "data": [
     {
       "id": 1,
@@ -7969,7 +7969,7 @@
     },
     {
       "id": 1339,
-      "name": "PeterTech\r",
+      "name": "Peter267",
       "status": "RUN",
       "url": "https://peter267.github.io",
       "tag": "blog,tech",
@@ -11211,7 +11211,7 @@
       "id": 1711,
       "name": "千坂神奈子的博客",
       "status": "RUN",
-      "url": "https://chisakakanako.notion.site/ChisakaKanako-96f67217a4c0410eb35c4200f835eafa",
+      "url": "https://bento.me/chisakakanako",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": false
@@ -12265,6 +12265,15 @@
       "name": "imxizhen",
       "status": "RUN",
       "url": "https://blog.imxizhen.asia",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1830,
+      "name": "帕姆斯",
+      "status": "RUN",
+      "url": "https://pamusi.com/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
