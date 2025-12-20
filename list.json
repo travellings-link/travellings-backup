@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1364,
+  "total": 1365,
   "data": [
     {
       "id": 1,
@@ -12274,6 +12274,15 @@
       "name": "帕姆斯",
       "status": "RUN",
       "url": "https://pamusi.com/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1831,
+      "name": "Yaten-Z's Blog",
+      "status": "RUN",
+      "url": "https://blog.yaten.xyz",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
