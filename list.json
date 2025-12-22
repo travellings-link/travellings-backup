@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1365,
+  "total": 1367,
   "data": [
     {
       "id": 1,
@@ -12283,6 +12283,24 @@
       "name": "Yaten-Z's Blog",
       "status": "RUN",
       "url": "https://blog.yaten.xyz",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1832,
+      "name": "小 Q 的个人网站",
+      "status": "RUN",
+      "url": "https://www.smallsmallq.com/blog",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1833,
+      "name": "Mnzn の 小屋",
+      "status": "RUN",
+      "url": "https://mnzn.me",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
