@@ -10508,7 +10508,7 @@
     {
       "id": 1633,
       "name": "Lichium Blog",
-      "status": "ERROR",
+      "status": "RUN",
       "url": "https://lichium.github.io",
       "tag": "go",
       "failedReason": null,
