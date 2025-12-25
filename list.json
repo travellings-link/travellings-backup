@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1373,
+  "total": 1374,
   "data": [
     {
       "id": 1,
@@ -3560,7 +3560,7 @@
     {
       "id": 719,
       "name": "若绾 Royc30ne's Blog",
-      "status": "RUN",
+      "status": "WAIT",
       "url": "https://www.royc30ne.com",
       "tag": "go,blog",
       "failedReason": "Server Error：522, Title：undefined",
@@ -12355,6 +12355,15 @@
       "name": "小灰灰的世界",
       "status": "RUN",
       "url": "https://xiaohuihui.cc/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1840,
+      "name": "Air1",
+      "status": "RUN",
+      "url": "https://air1.cn/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
