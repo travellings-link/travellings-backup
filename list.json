@@ -1265,7 +1265,7 @@
     {
       "id": 322,
       "name": "林林杂语",
-      "status": "ERROR",
+      "status": "RUN",
       "url": "https://www.xiaozonglin.cn",
       "tag": "blog,life",
       "failedReason": null,
