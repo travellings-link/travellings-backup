@@ -275,7 +275,7 @@
     {
       "id": 90,
       "name": "優萌初華",
-      "status": "RUN",
+      "status": "LOST",
       "url": "https://shoka.lostyu.me",
       "tag": "blog,tech",
       "failedReason": null,
@@ -500,7 +500,7 @@
     {
       "id": 160,
       "name": "阿方的博客",
-      "status": "ERROR",
+      "status": "RUN",
       "url": "https://fang.blog.miri.site",
       "tag": "go,blog",
       "failedReason": null,
@@ -509,7 +509,7 @@
     {
       "id": 161,
       "name": "见字如面",
-      "status": "LOST",
+      "status": "RUN",
       "url": "https://hiwannz.com",
       "tag": "go,blog",
       "failedReason": null,
