@@ -2407,9 +2407,9 @@
     },
     {
       "id": 538,
-      "name": "Cubik 的小站",
-      "status": "ERROR",
-      "url": "https://www.cubik65536.top",
+      "name": "Qubik的小站",
+      "status": "RUN",
+      "url": "https://qubik65536.top",
       "tag": "go,blog,tech",
       "failedReason": null,
       "isManualChecked": false
