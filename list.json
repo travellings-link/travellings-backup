@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1374,
+  "total": 1376,
   "data": [
     {
       "id": 1,
@@ -12364,6 +12364,24 @@
       "name": "Air1",
       "status": "RUN",
       "url": "https://air1.cn/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1841,
+      "name": "LinJHS个人小站",
+      "status": "RUN",
+      "url": "https://linjhs.top/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1842,
+      "name": "White~Festa",
+      "status": "RUN",
+      "url": "https://white-festa.net",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
