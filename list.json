@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1376,
+  "total": 1377,
   "data": [
     {
       "id": 1,
@@ -12382,6 +12382,15 @@
       "name": "White~Festa",
       "status": "RUN",
       "url": "https://white-festa.net",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1843,
+      "name": "Fogfleaの巢",
+      "status": "RUN",
+      "url": "https://www.fogflea.com",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
