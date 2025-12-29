@@ -8925,7 +8925,7 @@
       "id": 1455,
       "name": "叉息的空中咖啡馆",
       "status": "RUN",
-      "url": "https://www.xchere.fun/",
+      "url": "https://www.xchere.xyz/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": false
@@ -9751,9 +9751,9 @@
     },
     {
       "id": 1549,
-      "name": "小聂博客",
-      "status": "ERROR",
-      "url": "https://xn--yet655f.top/",
+      "name": "小聂的窝",
+      "status": "RUN",
+      "url": "https://xiaonie.xyz",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": false
