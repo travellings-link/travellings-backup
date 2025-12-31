@@ -8915,7 +8915,7 @@
     {
       "id": 1454,
       "name": "Frank笔记\r",
-      "status": "RUN",
+      "status": "WAIT",
       "url": "https://frank2019.life\r",
       "tag": "go,blog,life",
       "failedReason": null,
