@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1381,
+  "total": 1382,
   "data": [
     {
       "id": 1,
@@ -5369,7 +5369,7 @@
     {
       "id": 990,
       "name": "阳小楊's博客\r",
-      "status": "ERROR",
+      "status": "RUN",
       "url": "https://blog.yxyang.top\r",
       "tag": "go",
       "failedReason": null,
@@ -12083,7 +12083,7 @@
     {
       "id": 1809,
       "name": "yangblog",
-      "status": "LOST",
+      "status": "RUN",
       "url": "https://yangzs.851219.xyz/",
       "tag": "go",
       "failedReason": null,
@@ -12427,6 +12427,15 @@
       "name": "长生风月",
       "status": "RUN",
       "url": "https://www.ljscope.top/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1848,
+      "name": "HongLiu的小站",
+      "status": "RUN",
+      "url": "https://hongliu.icu",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
