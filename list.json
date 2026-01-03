@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1382,
+  "total": 1383,
   "data": [
     {
       "id": 1,
@@ -12436,6 +12436,15 @@
       "name": "HongLiu的小站",
       "status": "RUN",
       "url": "https://hongliu.icu",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1849,
+      "name": "是飞鱼Blog",
+      "status": "RUN",
+      "url": "https://shifeiyu.cn",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
