@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1390,
+  "total": 1391,
   "data": [
     {
       "id": 1,
@@ -11940,7 +11940,7 @@
       "id": 1793,
       "name": "吐司气泡",
       "status": "RUN",
-      "url": "https://blog.toastbubble.top/",
+      "url": "https://blog.toastbubble.top",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
@@ -12030,7 +12030,7 @@
       "id": 1803,
       "name": "GopherDing's Blog",
       "status": "RUN",
-      "url": "https://gopherding.github.io/",
+      "url": "https://gopherding.github.io",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
@@ -12039,7 +12039,7 @@
       "id": 1804,
       "name": "Notebook of Jie Hua",
       "status": "ERROR",
-      "url": "https://note.jiehua.org/",
+      "url": "https://note.jiehua.org",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
@@ -12093,7 +12093,7 @@
       "id": 1810,
       "name": "Under the Sun with Paddy",
       "status": "RUN",
-      "url": "https://www.paddysun.top/",
+      "url": "https://www.paddysun.top",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
@@ -12129,7 +12129,7 @@
       "id": 1814,
       "name": "soda-official",
       "status": "RUN",
-      "url": "https://soda-official.top/",
+      "url": "https://soda-official.top",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
@@ -12147,7 +12147,7 @@
       "id": 1816,
       "name": "晳粊的人生",
       "status": "RUN",
-      "url": "https://www.zhbi.top/",
+      "url": "https://www.zhbi.top",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
@@ -12219,7 +12219,7 @@
       "id": 1824,
       "name": "栖梦集",
       "status": "RUN",
-      "url": "https://www.lafoyer.com/",
+      "url": "https://www.lafoyer.com",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
@@ -12273,7 +12273,7 @@
       "id": 1830,
       "name": "帕姆斯",
       "status": "RUN",
-      "url": "https://pamusi.com/",
+      "url": "https://pamusi.com",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
@@ -12309,7 +12309,7 @@
       "id": 1834,
       "name": "Hmily",
       "status": "RUN",
-      "url": "https://www.hmily.ren/",
+      "url": "https://www.hmily.ren",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
@@ -12318,7 +12318,7 @@
       "id": 1835,
       "name": "李锋镝的博客",
       "status": "RUN",
-      "url": "https://www.lifengdi.com/",
+      "url": "https://www.lifengdi.com",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
@@ -12508,6 +12508,15 @@
       "name": "Miya's Blog",
       "status": "RUN",
       "url": "https://miyamura.top",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1857,
+      "name": "xiaolu的空间",
+      "status": "RUN",
+      "url": "https://blog.zhanxy.cn/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
