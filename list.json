@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1397,
+  "total": 1398,
   "data": [
     {
       "id": 1,
@@ -8455,9 +8455,9 @@
     },
     {
       "id": 1397,
-      "name": "故人博客",
+      "name": "茉灵智库",
       "status": "RUN",
-      "url": "https://pro.gleeze.com",
+      "url": "https://blog.nuaa.tech",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": false
@@ -12571,6 +12571,15 @@
       "name": "求知学习社",
       "status": "RUN",
       "url": "https://blog.zhipro.com/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1864,
+      "name": "kissthisrain",
+      "status": "RUN",
+      "url": "https://www.kissthisrain.cn/",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
