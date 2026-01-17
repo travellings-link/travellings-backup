@@ -7610,7 +7610,7 @@
     {
       "id": 1294,
       "name": "極客死亡計劃",
-      "status": "RUN",
+      "status": "WAIT",
       "url": "https://www.geedea.pro/",
       "tag": "go,blog",
       "failedReason": null,
