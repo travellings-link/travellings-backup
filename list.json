@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1416,
+  "total": 1417,
   "data": [
     {
       "id": 1,
@@ -12742,6 +12742,15 @@
       "name": "Ayayy's Blog",
       "status": "RUN",
       "url": "https://ayayy.com/",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1883,
+      "name": "小曦的园子",
+      "status": "RUN",
+      "url": "https://www.xiaoxi.ac.cn",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
