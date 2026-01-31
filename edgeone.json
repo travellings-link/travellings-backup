@@ -1,0 +1,17 @@
+{
+    "headers": [
+      {
+        "source": "/*",
+        "headers": [
+          {
+            "key": "access-control-allow-credentials",
+            "value": "false"
+          },
+          {
+            "key": "access-control-allow-origin",
+            "value": "https://*.travellings.cn"
+          }
+        ]
+      }
+    ]
+}
