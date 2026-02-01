@@ -1481,7 +1481,7 @@
     {
       "id": 364,
       "name": "煎茶",
-      "status": "LOST",
+      "status": "RUN",
       "url": "https://www.frytea.com",
       "tag": "go,blog,tech",
       "failedReason": null,
@@ -3749,8 +3749,8 @@
     {
       "id": 747,
       "name": "半方池水半方田",
-      "status": "LOST",
-      "url": "https://uuanqin.top",
+      "status": "RUN",
+      "url": "https://blog.uuanqin.top/",
       "tag": "go,blog",
       "failedReason": null,
       "isManualChecked": false
@@ -5225,7 +5225,7 @@
     {
       "id": 968,
       "name": "今天八杯水",
-      "status": "LOST",
+      "status": "WAIT",
       "url": "https://erui.org/",
       "tag": "go,blog",
       "failedReason": null,
