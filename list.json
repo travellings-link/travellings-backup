@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1417,
+  "total": 1418,
   "data": [
     {
       "id": 1,
@@ -12751,6 +12751,15 @@
       "name": "小曦的园子",
       "status": "RUN",
       "url": "https://www.xiaoxi.ac.cn",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1884,
+      "name": "周天野",
+      "status": "RUN",
+      "url": "https://tianyezhou.com",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
