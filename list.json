@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1418,
+  "total": 1419,
   "data": [
     {
       "id": 1,
@@ -270,7 +270,7 @@
       "url": "https://azusemisa.top",
       "tag": "go,blog,life",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 90,
@@ -288,7 +288,7 @@
       "url": "https://www.mrskye.cn",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 92,
@@ -297,7 +297,7 @@
       "url": "https://zigzagk.top",
       "tag": "go,blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 95,
@@ -315,7 +315,7 @@
       "url": "https://xd.sh.cn",
       "tag": "go,blog",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 101,
@@ -12760,6 +12760,15 @@
       "name": "周天野",
       "status": "RUN",
       "url": "https://tianyezhou.com",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1885,
+      "name": "璨梦踏月の小窝",
+      "status": "RUN",
+      "url": "https://blog.canmoe.com",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
