@@ -230,11 +230,11 @@
     {
       "id": 78,
       "name": "TAOG's Blog",
-      "status": "RUN",
+      "status": "WAIT",
       "url": "https://iktao.cn",
       "tag": "go,blog,hybrid",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 80,
@@ -261,7 +261,7 @@
       "url": "https://colsrch.cn",
       "tag": "blog,tech",
       "failedReason": null,
-      "isManualChecked": false
+      "isManualChecked": true
     },
     {
       "id": 87,
@@ -11300,7 +11300,7 @@
     {
       "id": 1721,
       "name": "枫花落烬",
-      "status": "RUN",
+      "status": "ERROR",
       "url": "https://luojin.qzz.io/",
       "tag": "go",
       "failedReason": null,
