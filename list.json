@@ -1,6 +1,6 @@
 {
   "success": true,
-  "total": 1419,
+  "total": 1420,
   "data": [
     {
       "id": 1,
@@ -12769,6 +12769,15 @@
       "name": "璨梦踏月の小窝",
       "status": "RUN",
       "url": "https://blog.canmoe.com",
+      "tag": "go",
+      "failedReason": null,
+      "isManualChecked": null
+    },
+    {
+      "id": 1886,
+      "name": "山雀与理想三旬",
+      "status": "RUN",
+      "url": "https://www.boyoung.top",
       "tag": "go",
       "failedReason": null,
       "isManualChecked": null
